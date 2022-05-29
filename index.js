@@ -1,7 +1,7 @@
 // ========================================================== //
 
 const { Client, Collection, Intents } = require('discord.js');
-//let cpuStat = require("cpu-stat"); apenas se quiser;
+//let cpuStat = require("cpu-stat"); apenas se quiser utilizar em um comando como botinfo. porem não será necessario;
 const mongoose = require("mongoose");
 const config = require('./src/config/config.json')
 
