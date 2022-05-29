@@ -1,7 +1,7 @@
 // ========================================================== //
 
 const { Client, Collection, Intents } = require('discord.js');
-let cpuStat = require("cpu-stat");
+//let cpuStat = require("cpu-stat"); apenas se quiser;
 const mongoose = require("mongoose");
 const config = require('./src/config/config.json')
 
